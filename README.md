@@ -18,7 +18,7 @@ Simply run the `run.bat` script, this will open your terminal execuing the scrip
 
 Alternatively, you can simply run
 ```bash
-node OSHE.js
+node app.js
 ```
 
 **Note:** Please see the [Dependecies](#dependecies).
